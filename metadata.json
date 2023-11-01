@@ -1,0 +1,8 @@
+{
+  "name": "GNOME OneDrive",
+  "description": "Use https://github.com/abraunegg/onedrive more easily",
+  "uuid": "gnome-onedrive@simonmara.dev.com",
+  "shell-version": [
+    "42"
+  ]
+}
