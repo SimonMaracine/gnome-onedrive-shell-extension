@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.gnome-onedrive" path="/org/gnome/shell/extensions/gnome-onedrive/">
+        <key name="onedrive-directory" type="s"></key>
+    </schema>
+</schemalist>
