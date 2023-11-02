@@ -3,7 +3,7 @@
   "description": "Use https://github.com/abraunegg/onedrive more easily",
   "uuid": "gnome-onedrive@simonmaracine.github.io",
   "shell-version": [
-    "44"
+    "42", "44"
   ],
   "version": 0
 }

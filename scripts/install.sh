@@ -1,5 +1,5 @@
 #! /bin/bash
 
-file_path="../gnome-onedrive@simonmara.dev.com.shell-extension.zip"
+file_path="../gnome-onedrive@simonmaracine.github.io.shell-extension.zip"
 
 gnome-extensions install "$file_path" --force
